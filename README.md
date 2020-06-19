@@ -1,2 +1,5 @@
-# cli-game
-2P Command Line game for windows
+# cli Ping Pong Game
+
+## made in c++ 
+
+will work on windos only due to inclusioin of header files like windows.h
